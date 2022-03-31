@@ -1,0 +1,14 @@
+E:\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe.config
+E:\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.exe
+E:\TaskScheduling\TaskScheduling\bin\Debug\TaskScheduling.pdb
+E:\TaskScheduling\TaskScheduling\bin\Debug\Interop.TaskScheduler.dll
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.csproj.AssemblyReference.cache
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.csproj.SuggestedBindingRedirects.cache
+E:\TaskScheduling\TaskScheduling\obj\Debug\Interop.TaskScheduler.dll
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.csproj.ResolveComReference.cache
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.Form1.resources
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.Properties.Resources.resources
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.csproj.GenerateResource.cache
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.csproj.CoreCompileInputs.cache
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.exe
+E:\TaskScheduling\TaskScheduling\obj\Debug\TaskScheduling.pdb
